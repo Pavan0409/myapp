@@ -1,0 +1,171 @@
+* {
+    top: 0px;
+    left: 0px;
+  }
+  
+  .bgimg{
+    position: relative;
+  }
+  
+  .form {
+    position: absolute;
+    margin-top: 81px;
+    margin-left: 395px;
+    margin-right: 394px;
+    width: 577px;
+    height: 687px;
+    border: none;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+  }
+  
+  .ama {
+    /* padding-top: 14px; */
+    height: 58px;
+    border-radius: 6px 6px 0px 0px;
+    padding-left: 237px;
+    box-shadow: 0px 3px 7px #00000029;
+  }
+  
+  .ama img {
+    padding-top: 14px;
+  }
+  
+  .header {
+    padding-top: 74px;
+    font-family: josefin sans-serif;
+    font-size: 29px;
+    color: #20b716;
+    font: normal normal normal 29px/35px Josefin Sans;
+    letter-spacing: 0px;
+    text-align: center;
+  }
+  
+  .tree {
+    padding-left: 96px;
+    padding-top: 24px;
+  }
+  .email {
+    width: 385px;
+    height: 25px;
+    padding-top: 24px;
+    padding-left: 96px;
+  }
+  
+  .email label {
+    text-align: left;
+    font: normal normal normal 16px/19px Josefin Sans;
+    letter-spacing: 0px;
+    color: #20b716;
+    opacity: 1;
+    width: 41px;
+    height: 16px;
+  }
+  
+  .email input {
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid grey;
+  }
+  
+  .password {
+    width: 385px;
+    height: 25px;
+    padding-top: 41px;
+    padding-left: 96px;
+  }
+  
+  .password label {
+    text-align: left;
+    font: normal normal normal 16px/19px Josefin Sans;
+    letter-spacing: 0px;
+    color: #20b716;
+    opacity: 1;
+    width: 66px;
+    height: 16px;
+  }
+  
+  .password input {
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid grey;
+  }
+  
+  .header {
+    padding-top: 10px;
+  }
+  
+  .btn {
+    padding-top: 24px;
+    width: 386px;
+    padding-left: 95px;
+  }
+  
+  .btn button {
+    width: 100%;
+    background: #20b716 0% 0% no-repeat padding-box;
+    border-radius: 40px;
+    opacity: 1;
+    height: 49px;
+    margin-top: 24px;
+    font: normal normal normal 19px/23px Josefin Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    border: none;  
+  }
+  
+  .forgot{
+    padding-top: 16px;
+    padding-left: 95px;
+    justify-content: space-between;
+    width: 386px;
+    display: flex;
+    flex-direction: row;
+    font: normal normal normal 14px/18px Josefin Sans;
+    letter-spacing: 0px;
+    color: #000000;
+  }
+  
+  .forgot link{
+    text-decoration: none;
+  }
+  
+  .gogo{
+    height: 46px;
+    width: 386px;
+    margin-left: 95px;
+    margin-top: 24px; 
+    display: flex;
+    flex-direction: row;
+    background-color: #4285F4;
+  }
+  
+  .gogo span{
+    text-align: center;
+    padding-top: 16px;
+    padding-left: 82px;
+    color:#FFFFFF ;
+  }
+  .fb{
+    height: 46px;
+    width: 386px;
+    margin-left: 95px;
+    margin-top: 24px; 
+    display: flex;
+    flex-direction: row;
+    background-color: #4285F4;
+  }
+  
+  .fb span{
+    text-align: center;
+    padding-top: 16px;
+    padding-left: 82px;
+    color:#FFFFFF ;
+  }
+
+  .linkk{
+    padding-left: 180px;
+    padding-top: 16px;
+    text-decoration: none;
+  }
